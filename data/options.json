@@ -1,7 +1,7 @@
 {
-  "publicPath": "/FoundryModules/",
-  "title": "Ardittristan's Foundry Modules",
-  "dataUrl": "https://raw.githubusercontent.com/ardittristan/FoundryModules/master/data/modules.json",
+  "publicPath": "/",
+  "title": "Chaosium Foundry Systems",
+  "dataUrl": "https://raw.githubusercontent.com/vttred/ChaosiumSystems/master/data/modules.json",
   "useActions": true,
-  "repo": "ardittristan/FoundryModules"
+  "repo": "vttred/ChaosiumSystems"
 }
